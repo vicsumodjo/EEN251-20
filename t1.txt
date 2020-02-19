@@ -1,3 +1,4 @@
 t1 inicio
 l1
 funcA
+print ("Olá Mundo")
