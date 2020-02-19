@@ -1,0 +1,2 @@
+ls -l = mostra o que esta no diretorio
+cd nome_da_pasta = muda o diretorio atual
