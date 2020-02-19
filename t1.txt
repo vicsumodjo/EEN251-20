@@ -1,0 +1,3 @@
+t1 inicio
+l1
+funcA
